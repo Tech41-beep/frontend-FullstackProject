@@ -6,7 +6,7 @@ import Signup from './pages/signup';
 import NotFoundPage from './pages/notfound';
 import Company from './pages/company';
 import About from './pages/About';
-import Contact from './pages/contact';
+import Contact from './pages/Contact';
 
 function App() {
   return (
